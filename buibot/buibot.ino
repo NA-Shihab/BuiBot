@@ -16,7 +16,7 @@ void setup() {
   display.setCursor(28, 20);
   display.println("BUI THE");
   display.setCursor(35, 40);
-  display.println("BOI");
+  display.println("BOT");
   display.display();
   delay(2000);
   display.clearDisplay();
